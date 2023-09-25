@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1695666687650,
+  "timestamp": 1695668330688,
   "index": "https://VickyMutai.github.io/index.html",
   "assetGroups": [
     {
@@ -41,7 +41,8 @@
         "https://VickyMutai.github.io/assets/img/bleaminggold.png",
         "https://VickyMutai.github.io/assets/img/coadkenya.png",
         "https://VickyMutai.github.io/assets/img/giovanni.png",
-        "https://VickyMutai.github.io/assets/img/hero.jpg"
+        "https://VickyMutai.github.io/assets/img/hero.jpg",
+        "https://VickyMutai.github.io/assets/img/logo.png"
       ],
       "patterns": []
     }
@@ -61,8 +62,9 @@
     "https://VickyMutai.github.io/assets/img/coadkenya.png": "e112a6629d2f926bafbd2b8f0555bc9e734bc86f",
     "https://VickyMutai.github.io/assets/img/giovanni.png": "3725f130ed8ee99ac58277a1a679024ea7313fc5",
     "https://VickyMutai.github.io/assets/img/hero.jpg": "df22329b8ba62be705a407724fd44787a06959b4",
+    "https://VickyMutai.github.io/assets/img/logo.png": "8902d760dcec468987eb7f39560b999b2e364616",
     "https://VickyMutai.github.io/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://VickyMutai.github.io/index.html": "07102752cc73f5fb515774686180deb8c5fdbe80",
+    "https://VickyMutai.github.io/index.html": "8f0d9d38744be95ff12042b79643a882e1a313c0",
     "https://VickyMutai.github.io/main.c3dde9270b850cbe.js": "6457c37e9a8c05581897eca4038938d649bc8c85",
     "https://VickyMutai.github.io/manifest.webmanifest": "e14484a4f652e2f158ec8045c44ef1b6d61e9f2d",
     "https://VickyMutai.github.io/polyfills.8629f13653a7f494.js": "394b84fae6c0d29de3609b3da49bb54ffb629f48",
