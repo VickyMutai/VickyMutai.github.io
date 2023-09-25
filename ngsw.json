@@ -1,0 +1,91 @@
+{
+  "configVersion": 1,
+  "timestamp": 1695666687650,
+  "index": "https://VickyMutai.github.io/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://VickyMutai.github.io/favicon.ico",
+        "https://VickyMutai.github.io/index.html",
+        "https://VickyMutai.github.io/main.c3dde9270b850cbe.js",
+        "https://VickyMutai.github.io/manifest.webmanifest",
+        "https://VickyMutai.github.io/polyfills.8629f13653a7f494.js",
+        "https://VickyMutai.github.io/runtime.4780622838e52590.js",
+        "https://VickyMutai.github.io/styles.779aeb27998d23ed.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://VickyMutai.github.io/assets/icons/icon-128x128.png",
+        "https://VickyMutai.github.io/assets/icons/icon-144x144.png",
+        "https://VickyMutai.github.io/assets/icons/icon-152x152.png",
+        "https://VickyMutai.github.io/assets/icons/icon-192x192.png",
+        "https://VickyMutai.github.io/assets/icons/icon-384x384.png",
+        "https://VickyMutai.github.io/assets/icons/icon-512x512.png",
+        "https://VickyMutai.github.io/assets/icons/icon-72x72.png",
+        "https://VickyMutai.github.io/assets/icons/icon-96x96.png",
+        "https://VickyMutai.github.io/assets/img/VickyProfessional.jpeg",
+        "https://VickyMutai.github.io/assets/img/bleaminggold.png",
+        "https://VickyMutai.github.io/assets/img/coadkenya.png",
+        "https://VickyMutai.github.io/assets/img/giovanni.png",
+        "https://VickyMutai.github.io/assets/img/hero.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://VickyMutai.github.io/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "https://VickyMutai.github.io/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "https://VickyMutai.github.io/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "https://VickyMutai.github.io/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "https://VickyMutai.github.io/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://VickyMutai.github.io/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://VickyMutai.github.io/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "https://VickyMutai.github.io/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "https://VickyMutai.github.io/assets/img/VickyProfessional.jpeg": "3c8728b430e8db85a0bea355a6800fb176b6f893",
+    "https://VickyMutai.github.io/assets/img/bleaminggold.png": "0453fd7f578be91b4093e68a3710d8790356f1a6",
+    "https://VickyMutai.github.io/assets/img/coadkenya.png": "e112a6629d2f926bafbd2b8f0555bc9e734bc86f",
+    "https://VickyMutai.github.io/assets/img/giovanni.png": "3725f130ed8ee99ac58277a1a679024ea7313fc5",
+    "https://VickyMutai.github.io/assets/img/hero.jpg": "df22329b8ba62be705a407724fd44787a06959b4",
+    "https://VickyMutai.github.io/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://VickyMutai.github.io/index.html": "07102752cc73f5fb515774686180deb8c5fdbe80",
+    "https://VickyMutai.github.io/main.c3dde9270b850cbe.js": "6457c37e9a8c05581897eca4038938d649bc8c85",
+    "https://VickyMutai.github.io/manifest.webmanifest": "e14484a4f652e2f158ec8045c44ef1b6d61e9f2d",
+    "https://VickyMutai.github.io/polyfills.8629f13653a7f494.js": "394b84fae6c0d29de3609b3da49bb54ffb629f48",
+    "https://VickyMutai.github.io/runtime.4780622838e52590.js": "4edd7804a475b3f6f86e6c84f6fc2214749afcaf",
+    "https://VickyMutai.github.io/styles.779aeb27998d23ed.css": "96b546f4489f6488052edf62f0a4342f74c46a12"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
