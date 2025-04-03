@@ -1,52 +1,79 @@
 hr.short-hr {
-    width: 10%;
-    border: 3px solid blue;
+  width: 10%;
+  border: 3px solid blue;
 }
 
 .about a {
-    text-decoration: none;
-    color: black;
+  text-decoration: none;
+  color: black;
 }
 
 .years {
-    background-color: #00224B;
-    color: #fff;
+  background-color: #00224b;
+  color: #fff;
 }
 
 .years h1 {
-    font-size: 4em;
+  font-size: 4em;
 }
 
 .skills span {
-    color: #00224B;
-    font-weight: bold;
+  color: #00224b;
+  font-weight: bold;
 }
 
 .skills h4 {
-    font-weight: bolder;
+  font-weight: bolder;
 }
 
 button a {
-    color: #fff;
-    text-decoration: none;
+  color: #fff;
+  text-decoration: none;
 }
 
 .contact a {
-    text-decoration: none;
-    color: #fff;
+  text-decoration: none;
+  color: #fff;
 }
 
 .contactdetails {
-    background-color: burlywood;
-    padding: 30px;
-    color: #fff;
+  background-color: burlywood;
+  padding: 30px;
+  color: #fff;
 }
 
 footer {
-    position: static;
-    background-color: #00224B;
-    color: #fff;
-    padding: 3px;
-    width: 100%;
-    bottom: 0;
+  background-color: #00224b;
+  color: #fff;
+  padding: 3px;
+  width: 100%;
+  bottom: 0;
+}
+.exp-card {
+  border: 1px solid #dcdcdc;
+  border-left: 6px solid #00224b;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease-in-out;
+}
+
+.exp-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 4px 4px 20px rgba(0, 34, 75, 0.15);
+}
+
+.exp-card h5 {
+  color: #00224b;
+  font-weight: bold;
+}
+
+.exp-card ul {
+  padding-left: 1rem;
+  margin-bottom: 0;
+}
+
+.exp-card ul li {
+  margin-bottom: 0.5rem;
+  line-height: 1.6;
 }
